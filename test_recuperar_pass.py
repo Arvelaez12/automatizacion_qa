@@ -1,3 +1,3 @@
 def test_simular_recuperacion():
-    print("Línea editada por Alberto (QA Senior)")
+    print("Version de la rama MAIN")
     assert True
