@@ -1,0 +1,8 @@
+{
+    "url_login": "https://the-internet.herokuapp.com/login",
+    "usuario_valido": "tomsmith",
+    "password_valido": "SuperSecretPassword!",
+    
+    "url_recuperar": "https://the-internet.herokuapp.com/forgot_password",
+    "correo_repaso": "alberto.json@datos.com"
+}
