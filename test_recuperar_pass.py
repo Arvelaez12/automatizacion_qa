@@ -1,3 +1,3 @@
 def test_simular_recuperacion():
-    print("Simulando flujo de recuperación de contraseña...")
+    print("Línea editada por el Compañero de Trabajo")
     assert True
